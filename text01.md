@@ -1,13 +1,3 @@
-First add.
+Test git reset --hard command.
 
-First modified.
-
-First commit.
-
-Second commit.
-
-modify master no add no commit.
-
-modify branch02.
-
-git stash 02.
+Test amend command.
