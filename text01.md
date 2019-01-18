@@ -1,5 +1,5 @@
 Test git reset --hard command.
 
-Test amend command. Add rebasebranch.
+Test amend command.
 
 Test git reset --soft.
