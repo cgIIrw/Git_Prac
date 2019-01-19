@@ -1,11 +1,14 @@
-First add.
+Test git reset --hard command.
 
-First modified.
+Test amend command.
 
-First commit.
+Test git reset --soft.
 
 Second commit.
 
 Test git rm --cached ...
 
 modify branch01.
+
+Add serverfix.
+
