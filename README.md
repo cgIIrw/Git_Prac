@@ -45,7 +45,6 @@
 - 如果不希望Write a message for tag，如何给提交打标签？
 - 可以根据tag创建分支吗？
 - 如何看待git checkout [标签名]？
--
 
 ### [Git带着问题去实践(三)](https://cgiirw.github.io/2018/05/11/Git-Prac03/)
 
@@ -65,3 +64,12 @@
 - 如何使用pull request参与一个项目？
 
 :sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny::sunny:
+
+### 资源索引
+
+- [progit-zh-v2.1.1.pdf](https://git-scm.com/book/zh/v2)
+- [Git团队协作](https://book.douban.com/subject/27046286/)
+- [图文详解如何利用Git+Github进行团队协作开发](https://zhuanlan.zhihu.com/p/23478654)
+- [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Git常用命令和团队协作开发](https://www.jianshu.com/p/d62e24f0dd12)
