@@ -10,20 +10,19 @@
 
 ### [Git带着问题去实践(一)](https://cgiirw.github.io/2018/04/12/Git_Prac/)
 
-- untracked是一个什么状态？
+- untracked是什么状态？
 - 如何查看modified状态下更改过的内容？
 - 如何查看进入staged状态后的内容？
-- 如果test.md文件既有没处于staged状态的modified内容，又有处于staged状态的modified内容，分别运行上文刚刚提到的命令，会得到什么结果？
+- 如果既有处于modified状态的内容，又有处于staged状态的内容，分别运行上文提到的命令，会得到什么结果？
 - staged状态怎么理解？
 - 如果不需要思考人生，能不能跨过staged状态直接commit呢？
-- 如何将test02.md还原成untracked状态？
-- 如果仅仅是一次add犯了错，使test02.md还原成untracked状态还可以使用什么方法？
-- 能不能撤销test.md没有处于staged的modified修改？
+- 如何将README.md还原成untracked状态？
+- 如果仅仅是一次add犯了错，要还原成untracked状态还可以使用什么方法？
+- 能不能撤销README.md处于modified状态的修改？
 - 如何查看最新提交的更新情况？
 - 如果要查看指定的某次提交更新的情况呢？
 - 如何比较某两次提交的变化？
-- 执行git rm –cached test02.md命令后，再add刚刚已经untracked的test02.md会发生什么呢？
-- git reset HEAD 的作用不是unstage吗？为什么运行后原本期望删掉的test02.md又还原到未删除之的commit状态？
+- 如果git rm –cached README.md后，那么此时再add刚刚已经untracked的README.md后会发生什么呢？
 - 如何列出所有的SHA-1哈希码？
 
 ### [Git带着问题去实践(二)](https://cgiirw.github.io/2018/04/13/Git_Prac02/)
